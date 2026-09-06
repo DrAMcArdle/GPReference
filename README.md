@@ -2,6 +2,23 @@
 <thead>
 <tr>
 <th>Name</th>
+<th>Link</th>
+<th>Description</th>
+<th>Type</th>
+<th>Category</th>
+<th>Mirrors</th>
+<th>Rating (/4)</th>
 </tr>
 </thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Link</td>
+<td>Description</td>
+<td>Type</td>
+<td>Category</td>
+<td>Mirrors</td>
+<td>Rating</td>
+</tr>
+</tbody>
 </table>
